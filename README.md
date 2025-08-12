@@ -41,6 +41,7 @@ Objective: Build a Java GUI To-Do List with persistence, editing, priorities, an
 **Project Structure**
 
    src/
+   
     ├── model/
     
     │   ├── Task.java
